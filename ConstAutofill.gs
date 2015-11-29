@@ -1,0 +1,23 @@
+var SHEET_INVOICES = "invoices";
+var SHEET_EVENTS = "events";
+var SHEET_ITEMS = "event items";
+var SHEET_COMPANIES = "companies";
+
+var INVOICES_COMPANY = "E";
+var INVOICES_INVOICE_NO = "F";
+var INVOICES_INVOICE_DATE = "G";
+var INVOICES_EVENT = "H";
+var INVOICES_EVENTDATE = "I";
+var INVOICES_ITEM = "J";
+var INVOICES_QUANTITY = "K";
+var INVOICES_PRICE = "L";
+var ITEMS_EVENT = "A";
+
+var COL_EVENTS_EVENT = 1;
+var COL_EVENTS_EVENTDATE = 2;
+
+var COL_ITEMS_EVENT = 1;
+var COL_ITEMS_ITEM = 2;
+var COL_ITEMS_PRICE = 3;
+
+var COL_COMPANIES_COMPANY = 1;
